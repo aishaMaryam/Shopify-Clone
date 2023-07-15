@@ -6,6 +6,6 @@
 
 💙 Made by Aisha Maryam 
 
-![preview img](../p1.jpg)
+![preview img](preview.png)
 
 # Shopify-Clone
